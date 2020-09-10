@@ -16,7 +16,7 @@
       <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enagara&layout=compact&hide=html" alt="enagara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENagara&layout=compact&hide=html" alt="ENagara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enagara&show_icons=true" alt="enagara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ENagara&show_icons=true" alt="ENagara" /></p>
 
