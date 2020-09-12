@@ -1,4 +1,4 @@
-**Hey there, I'm ENagara. 👋** <br>
+**Hey there, I'm N-ei. 👋** <br>
 - 🌱 I’m currently learning **React, React Native**.
 
 - My Skills
